@@ -15,6 +15,8 @@ Instead of relying on a single chatbot, the system routes user queries to specia
 5. 🔍 Retrieving relevant legal information using RAG
 
 Disclaimer: The Closer AI provides educational legal information and does not replace professional legal advice.
+![Homepage](Screenshot%20(157).png)
+
 
 🚀 Features
 1. Multi-Agent AI Architecture
