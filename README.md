@@ -26,6 +26,10 @@ Disclaimer: The Closer AI provides educational legal information and does not re
 9. IBM watsonx.ai
 10. IBM Cloud Deployment
 
+## 🏠 Homepage
+
+![Homepage](Screenshot%20(153).png)
+
 🏗 Architecture
 ## 🏗 Architecture
 
